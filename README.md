@@ -2,7 +2,7 @@
 
 ## Thông tin sinh viên
 - **MSSV**: 23810310091
-- **Họ và tên**: [Tên sinh viên]
+- **Họ và tên**: Nguyễn Đức Dương
 
 ## Yêu cầu đã thực hiện
 - [x] **Cấu trúc dữ liệu**:
