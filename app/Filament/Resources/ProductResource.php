@@ -14,6 +14,10 @@ use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
 use Illuminate\Support\Str;
 
+/**
+ * Product Resource for managing products with Rich Editor and Image support.
+ * Student ID: 23810310091
+ */
 class ProductResource extends Resource
 {
     protected static ?string $model = Product::class;
