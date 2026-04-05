@@ -14,6 +14,10 @@ use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
 use Illuminate\Support\Str;
 
+/**
+ * Category Resource for managing product categories.
+ * Student ID: 23810310091
+ */
 class CategoryResource extends Resource
 {
     protected static ?string $model = Category::class;
